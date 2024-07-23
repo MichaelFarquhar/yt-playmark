@@ -1,0 +1,20 @@
+{
+  "short_name": "YT Playmark",
+  "name": "YT Playmark - Bookmark and Navigate YouTube Videos",
+  "description": "Easily bookmark and navigate your favorite YouTube videos with YT Playmark.",
+  "icons": [
+    {
+      "src": "favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#e6484e"
+}
